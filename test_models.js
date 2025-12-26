@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-const apiKey = "AIzaSyDocRIJ5um8XkPHcNlPeN3VHkVA2qJiLy4";
+const apiKey = "YOU_GEMINI_KEY";
 
 if (!apiKey) {
     console.error("No API Key found in .env");
